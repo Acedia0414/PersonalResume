@@ -1,12 +1,12 @@
 var config = {
     /*在这里配置你的基本信息，所有数据以字符串形式给出*/
-    name: "卢世荣",
+    name: "吕泊潭",
     sex: "男",
-    age: "19",
-    phone: "19870887127",
-    email: "happysnaker@foxmail.com",
-    address: "现居浙江省义乌市",
-    qq: "1637318597",
+    age: "22",
+    phone: "13383831208",
+    email: "1368709507@qq.com",
+    address: "现居河南省郑州市",
+    qq: "1368709507",
     log: "Happysnaker",
     excpect_work: "Java/Go后端开发",
 
@@ -33,12 +33,12 @@ var config = {
     /*在这里配置首页的见面信息，你可以内嵌HTML标签以调整格式*/
     welcome: "青青子衿，悠悠我心<br>" +
              "但为君故，沉吟至今<br>" +
-             "你好，我是卢世荣，南昌大学软件工程大二在读生<br>" +
+             "你好，我是吕泊潭，华北水利水电大学软件工程专业应届毕业生<br>" +
              "很高兴见到你!",
 
 
     /*在这里配置关于我的信息，你可以内嵌HTML标签以调整格式*/
-    about: "<p>你好！我叫卢世荣，性别男，南昌大学软件学院大二在读。我期望的工作岗位是Go/Java后端开发。</p>" +
+    about: "<p>你好！我叫吕泊潭，性别男，华北水利水电大学软件工程专业应届毕业生。我期望的工作岗位是Java后端开发。</p>" +
         "<p>我有着较多的Java编程经验，计算机基础知识掌握扎实，能够在工作中很好的完成自己的任务。此外，我有着充满激情的工作态度，团队协同作战能力强，同时我也具备独立开发的能力，擅于发现并解决问题。我的执行力强、责任感高、集体荣誉感强、敢于担当，能够接受加班或出差等安排</p>" +
         "<p>十分期待与您的联系!</p>",
 
@@ -81,7 +81,7 @@ var config = {
      * 通过查看实际效果以调整字题长度
      */
     portfolio: [
-        ["./images/pro-1.png", "http://1.15.234.109:8000/", "个人博客", "这里记录了我的Java后端学习笔记<br>持续更新"],
+        ["./images/pro-1.png", "https://weibo.com/u/5851215807", "个人博客", "目前还没有起色<br>持续更新"],
         ["./images/pro-2.png", "https://github.com/happysnaker/Gobang", "智能人机对战五子棋", "采用C++编写的智能五子棋人机对战<br>2021/7/23"],
         ["https://pic3.zhimg.com/80/v2-d9766956d5c85c2780e4c5008fd946ca_1440w.jpg", "https://github.com/happysnaker/StudentsManageSystem", "学生管理系统", "C语言+AVL树+多重双向表实现"]
     ],
@@ -144,7 +144,7 @@ var config = {
     url: [
         //背景图、头像、作品展示背景、其他经历背景
         "./images/intro-bg.jpg",
-        "./images/2.jpg",
+        "./images/123.jpg",
         "./images/work-bk.png",
         "./images/4.jpg"
     ]
